@@ -4,3 +4,4 @@
  - gorgonzola cheese
  - rucola
  - salsiccia
+ - pine nuts
